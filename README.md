@@ -1,3 +1,5 @@
+Cấu trúc 1 sườn app sài Bloc cho nhiều Screen
+
 # bloc_my_navigator_app
 
 A new Flutter project.
